@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "customerName": "John Doe",
+    "totalAmount": 50.99,
+    "status": "Pending"
+  },
+  {
+    "id": "2",
+    "customerName": "Alice Smith",
+    "totalAmount": 75.25,
+    "status": "Shipped"
+  },
+  {
+    "id": "3",
+    "customerName": "Bob Johnson",
+    "totalAmount": 30.50,
+    "status": "Delivered"
+  },
+  {
+    "id": "4",
+    "customerName": "Emma Davis",
+    "totalAmount": 100.00,
+    "status": "Pending"
+  },
+  {
+    "id": "5",
+    "customerName": "Michael Wilson",
+    "totalAmount": 45.75,
+    "status": "Shipped"
+  },
+  {
+    "id": "6",
+    "customerName": "Sophia Martinez",
+    "totalAmount": 60.80,
+    "status": "Delivered"
+  },
+  {
+    "id": "7",
+    "customerName": "Ethan Anderson",
+    "totalAmount": 85.99,
+    "status": "Pending"
+  },
+  {
+    "id": "8",
+    "customerName": "Olivia Brown",
+    "totalAmount": 20.00,
+    "status": "Shipped"
+  },
+  {
+    "id": "9",
+    "customerName": "William Taylor",
+    "totalAmount": 65.50,
+    "status": "Delivered"
+  },
+  {
+    "id": "10",
+    "customerName": "Ava Garcia",
+    "totalAmount": 55.25,
+    "status": "Pending"
+  }
+]
