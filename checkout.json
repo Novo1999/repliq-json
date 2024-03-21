@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2",
+    "customerName": "Alice Smith",
+    "totalAmount": 75.25,
+    "status": "Shipped",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "id": "3",
+    "customerName": "Bob Johnson",
+    "totalAmount": 30.50,
+    "status": "Delivered",
+    "paymentMethod": "PayPal"
+  },
+  {
+    "id": "5",
+    "customerName": "Michael Wilson",
+    "totalAmount": 45.75,
+    "status": "Shipped",
+    "paymentMethod": "Debit Card"
+  },
+  {
+    "id": "6",
+    "customerName": "Sophia Martinez",
+    "totalAmount": 60.80,
+    "status": "Delivered",
+    "paymentMethod": "Cash on Delivery"
+  },
+  {
+    "id": "8",
+    "customerName": "Olivia Brown",
+    "totalAmount": 20.00,
+    "status": "Shipped",
+    "paymentMethod": "Bank Transfer"
+  },
+  {
+    "id": "9",
+    "customerName": "William Taylor",
+    "totalAmount": 65.50,
+    "status": "Delivered",
+    "paymentMethod": "Credit Card"
+  }
+]
